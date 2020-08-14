@@ -1,0 +1,7 @@
+C:\Users\Dominic\Desktop\pythoncodes\try\GUI\Image Viewer\images\a.jpg
+C:\Users\Dominic\Desktop\pythoncodes\try\GUI\Image Viewer\images\b.jpg
+C:\Users\Dominic\Desktop\pythoncodes\try\GUI\Image Viewer\images\background-balance-beach-boulder-289586.jpg
+C:\Users\Dominic\Desktop\pythoncodes\try\GUI\Image Viewer\images\blue-green-bmw-car-2127039.jpg
+C:\Users\Dominic\Desktop\pythoncodes\try\GUI\Image Viewer\images\blue-letter-p-clip-art-3321790.jpg
+C:\Users\Dominic\Pictures\Saved Pictures\Rectangle 3-1@2x.png
+C:\Users\Dominic\Pictures\Saved Pictures\eduardo-dutra-Kqjc3vvgl1k-unsplash.png
