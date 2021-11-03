@@ -19,7 +19,6 @@ from keys import API_KEY
 # coding: utf-8
 import requests
 
-
 params = {
     'access_key': 'b473c6937a0660adf948dce436521ef8',
     'query': 'New York'

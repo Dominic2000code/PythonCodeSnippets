@@ -1,1 +1,1 @@
-Some reusable python codes and some solutions to challenges
+Some reusable python codes, and some solutions to challenges
